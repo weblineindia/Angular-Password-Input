@@ -1,0 +1,41 @@
+{
+  "name": "angular-weblineindia-password",
+  "version": "1.0.0",
+  "description": "An AngularJS based Password Input component, which provides input field to add password as a text / password property with validation. The password value is automatically validated on change event. You can also disable password field using disable props.",
+  "author": "weblineindia",
+  "license": "MIT",
+  "repository": "https://github.com/weblineindia/AngularJS-Password-Input",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "@fortawesome/angular-fontawesome": "^0.2.1",
+    "@fortawesome/fontawesome-free": "^5.13.1",
+    "@fortawesome/fontawesome-svg-core": "^1.2.29",
+    "@fortawesome/free-solid-svg-icons": "^5.13.1"
+  },
+  "main": "bundles/angular-weblineindia-password.umd.js",
+  "module": "fesm5/angular-weblineindia-password.js",
+  "es2015": "fesm2015/angular-weblineindia-password.js",
+  "esm5": "esm5/angular-weblineindia-password.js",
+  "esm2015": "esm2015/angular-weblineindia-password.js",
+  "fesm5": "fesm5/angular-weblineindia-password.js",
+  "fesm2015": "fesm2015/angular-weblineindia-password.js",
+  "typings": "angular-weblineindia-password.d.ts",
+  "metadata": "angular-weblineindia-password.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "keywords": [
+    "angular-weblineindia-password",
+    "password-input",
+    "angular-components",
+    "angularjs",
+    "angularjs-component",
+    "password-input-component",
+    "angularjs-password-input",
+    "password-validation",
+    "angularjs-password-validation"
+  ]
+}
